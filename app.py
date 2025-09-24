@@ -34,3 +34,9 @@ if build_scatterplot:  # if verification box is checked
     fig = px.scatter(df_vehicles_us, x="odometer", y="price")
     # showing an interactive Plotly chart
     st.plotly_chart(fig, use_container_width=True)
+
+
+st.write('This application has been developed by Octavio Don as part of the TripleTen Data Science Bootcamp.')
+st.write('GitHub repository: https://github.com/octaviodon-gif/tripleten_sprint_7_proyecto.git')
+st.write('LinkedIn profile: https://www.linkedin.com/in/octavio-don-flores')
+st.write('Portfolio: https://github.com/octaviodon')
