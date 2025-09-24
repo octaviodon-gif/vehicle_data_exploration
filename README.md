@@ -1,2 +1,7 @@
-# tripleten_sprint_7_proyecto
-Proyecto del Sprint 7 del bootcamp Data Analyst por parte de Triple Ten
+# tripleten_sprint_7_projecto
+Sprint 7 project from Tripleten bootcamp Data Analyst.
+
+This is an app to visualize data for used vehicles in the US, you will be able to create a histogram or a scatterplot.
+Feel free to use this app with knowledge and hopefully you get the best of it.
+
+App has been developed by Octavio Don. Strong Data Analyst candidate with passion!
