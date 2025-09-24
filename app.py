@@ -4,7 +4,7 @@ import streamlit as st
 
 # reading data into a dataframe
 df_vehicles_us = pd.read_csv(
-    '/vehicles_us.csv')
+    'vehicles_us.csv')
 
 # Streamlit application
 
